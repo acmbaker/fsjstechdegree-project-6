@@ -1,0 +1,18 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 My Portfolio
+
+    p This site displays all of the development projects that I have worked on.
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+      each project in projects 
+        .cell 
+          a(href=`/project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}`, alt=`${project.project_name}`)
+            h5 #{project.project_name}

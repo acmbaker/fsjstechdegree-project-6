@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "project_name": "Full Stack JavaScript Project 1",
+      "description": "For this project, we had to find several quotes, list them in an object array, display them on the page and get the change quote button functional.",
+      "technologies": ["JavaScript"],
+      "live_link": "https://acmbaker.github.io/fsjstechdegree-project-1/",
+      "github_link": "https://github.com/acmbaker/fsjstechdegree-project-1",
+      "image_urls": [
+        "/static/img/unit1_image1.png",
+        "/static/img/unit1_image2.png"
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "Full Stack JavaScript Project 2",
+      "description": "For this project, we had to turn an object array into a fully functional page with a search filter.",
+      "technologies": ["JavaScript"],
+      "live_link": "https://acmbaker.github.io/fsjstechdegree-project-2/",
+      "github_link": "https://github.com/acmbaker/fsjstechdegree-project-2",
+      "image_urls": [
+        "/static/img/unit2_image1.png",
+        "/static/img/unit2_image2.png"
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "Full Stack JavaScript Project 3",
+      "description": "For this project, we had to add JavaScript to create functionality and interactivity with the HTML form.",
+      "technologies": ["JavaScript"],
+      "live_link": "https://acmbaker.github.io/fsjstechdegree-project-3/",
+      "github_link": "https://github.com/acmbaker/fsjstechdegree-project-3",
+      "image_urls": [
+        "/static/img/unit3_image1.png",
+        "/static/img/unit3_image2.png"
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "Full Stack JavaScript Project 4",
+      "description": "For this project, I created a browser-based, word guessing game: Phrase Hunter.",
+      "technologies": ["JavaScript"],
+      "live_link": "https://acmbaker.github.io/fsjstechdegree-project-4/",
+      "github_link": "https://github.com/acmbaker/fsjstechdegree-project-4",
+      "image_urls": [
+        "/static/img/unit4_image1.png",
+        "/static/img/unit4_image2.png",
+        "/static/img/unit4_image3.png"
+      ]
+    },
+    {
+      "id": "5",
+      "project_name": "Full Stack JavaScript Project 5",
+      "description": "For this project, I created a directory which used an API to fetch the data from.",
+      "technologies": ["JavaScript"],
+      "live_link": "https://acmbaker.github.io/fsjstechdegree-project-5/",
+      "github_link": "https://github.com/acmbaker/fsjstechdegree-project-5",
+      "image_urls": [
+        "/static/img/unit5_image1.png",
+        "/static/img/unit5_image2.png",
+        "/static/img/unit5_image3.png"
+      ]
+    }
+  ]
+}
